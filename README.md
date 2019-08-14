@@ -36,6 +36,7 @@ After that you can make the changes you want and then commit them. Now, it will 
 **Cherry-pick:**
 
 If you've once commit out of sync, you can get it back into sync using cherry-pick.
+
 ```git cherry-pick <commit>```
 
 **Reflog:**
@@ -45,4 +46,5 @@ This is a history that will get you back to where you want to be. Unless you hav
 `git reflog`
 
 Then to get back to the place in the history you want to be. For example:
+
  `git reset 'HEAD@{1}' `
