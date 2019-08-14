@@ -35,6 +35,7 @@ If you've once commit out of sync, you can get it back into sync using cherry-pi
 ```git cherry-pick <commit>```
 
 **Reflog:**
+
 This is a history that will get you back to where you want to be. Unless you haven't used `hard`
 
 `git reflog`
