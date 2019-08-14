@@ -11,7 +11,11 @@ Squash the last 3 commits.
 
 **Rebase:**
 
-```git rebase --abort```
+* `git rebase master`
+
+Rebase master into the branch you're checked into.
+
+* ```git rebase --abort```
 
 **Reset:**
 
