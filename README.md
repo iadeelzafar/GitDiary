@@ -35,7 +35,7 @@ After that you can make the changes you want and then commit them. Now, it will 
 
 **Cherry-pick:**
 
-If you've once commit out of sync, you can get it back into sync using cherry-pick.
+If you've one commit out of sync, you can get it back into sync using cherry-pick. For example, you checked into a commit and then made some changes and committed. Now, this new commit will be out of sync. To get it into sync with the `HEAD`, use this.
 
 ```git cherry-pick <commit>```
 
