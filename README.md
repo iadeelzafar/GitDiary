@@ -48,3 +48,7 @@ This is a history that will get you back to where you want to be. Unless you hav
 Then to get back to the place in the history you want to be. For example:
 
  `git reset 'HEAD@{1}' `
+ 
+ **Hooks:**
+ 
+ bash .git/hooks/pre-commit
