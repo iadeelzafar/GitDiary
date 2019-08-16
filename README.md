@@ -51,4 +51,4 @@ Then to get back to the place in the history you want to be. For example:
  
  **Hooks:**
  
- bash .git/hooks/pre-commit
+ `bash .git/hooks/pre-commit`
