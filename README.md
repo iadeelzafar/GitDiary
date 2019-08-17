@@ -1,5 +1,5 @@
 ### GitDiary
-My daily learnings of git.
+:blue_book: My daily learnings of git.
 
 This file is a lil rough. But comes in handy.
 
