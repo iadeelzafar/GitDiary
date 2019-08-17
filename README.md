@@ -53,7 +53,7 @@ Then to get back to the place in the history you want to be. For example:
  
  `bash .git/hooks/pre-commit`
  
- **Save your uncommitted changes of branch A to a new branch B while resetting branch A to when it was last committed**
+ **Save your uncommitted changes of branch X to a new branch Y while resetting branch X to when it was last committed**
  
 ```
 git checkout -b <new-branch>
