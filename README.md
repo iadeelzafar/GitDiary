@@ -70,3 +70,7 @@ git checkout <lbranch>
 OR the other option is:
 
 ```git checkout --track origin/daves_branch```
+
+**Clone a repo with a different destination folder name**
+
+```git clone URL new_folder_name```
