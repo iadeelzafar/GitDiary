@@ -60,3 +60,13 @@ git checkout -b <new-branch>
 git add <files>
 git commit -m "<Brief description of this commit>"
 ```
+**Pull new branch from remote**
+
+```
+git fetch <remote> <rbranch>:<lbranch>
+git checkout <lbranch>
+```
+
+OR the other option is:
+
+```git checkout --track origin/daves_branch```
