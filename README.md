@@ -74,3 +74,7 @@ OR the other option is:
 **Clone a repo with a different destination folder name**
 
 ```git clone URL new_folder_name```
+
+**Empty commit**
+
+```git commit --allow-empty -m "Trigger Build"```
